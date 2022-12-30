@@ -1,0 +1,12 @@
+{
+    "name": "Node_Red",
+    "description": "Node red to demonstrate water pump system in RR using interative 2D GUI",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
