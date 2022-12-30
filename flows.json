@@ -3,7 +3,7 @@
         "id": "d16da8a6b53ae679",
         "type": "tab",
         "label": "Test",
-        "disabled": true,
+        "disabled": false,
         "info": "",
         "env": []
     },
